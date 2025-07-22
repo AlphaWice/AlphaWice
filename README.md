@@ -1,5 +1,5 @@
-- 👋 Welcome to my new GitHub page ! I’m Jad Elamrani
-- 👀 I’m interested in NLP ML models. (And finance (VC/PE))
+- 👋 Hi there, nice to meet you ! I’m Jad Elamrani
+- 👀 I’m interested in NLP ML models and finance VC/PE
 - 🌱 Proficient in advanced scraping algorithms and data science
 - 💻 Tech Stack: Java/JS/Python/SQL/Node/Express/React/ReactNative/HTML/CSS
 - 📫 How to reach me: jad.elamrani@gmail.com
