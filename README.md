@@ -2,4 +2,5 @@
 - 👀 I'm interested in RAG and software orchestration
 - 🌱 Proficient in advanced scraping algorithms and data science
 - 💻 Tech Stack: Java/JS/Python/SQL/Node/Express/React/ReactNative/HTML/CSS
+- 🚀 Currently exploring AI and machine learning
 - 📫 How to reach me: jad.elamrani@gmail.com
