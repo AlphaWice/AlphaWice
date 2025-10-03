@@ -1,5 +1,5 @@
-- 👋 Hi there, nice to meet you ! I’m Jad Elamrani
-- 👀 I’m interested in RAG and software orchestration
+- 👋 Hi there, nice to meet you ! I'm Jad Elamrani ✨
+- 👀 I'm interested in RAG and software orchestration
 - 🌱 Proficient in advanced scraping algorithms and data science
 - 💻 Tech Stack: Java/JS/Python/SQL/Node/Express/React/ReactNative/HTML/CSS
 - 📫 How to reach me: jad.elamrani@gmail.com
