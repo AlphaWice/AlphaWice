@@ -1,6 +1,6 @@
                                                                          
 ⏺ - 👋 Hi, I'm Jad Elamrani                                                      
-  - 📈 Passionate about algorithmic trading, market microstructure, and
+  - 📈 Passionate about machine learning, finance, algorithmic trading, market microstructure, and
   quantitative research                                                          
   - ⚡ Building low-latency execution systems, signal generation pipelines, and
   risk analytics                                                                 
